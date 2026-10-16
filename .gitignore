@@ -1,0 +1,8 @@
+data/
+cache/
+interp-exploration/
+# raw completions include answers to harmful prompts; release aggregates only
+results/*/generations/
+.ipynb_checkpoints/
+__pycache__/
+.venv/

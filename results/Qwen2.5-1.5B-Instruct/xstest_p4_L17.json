@@ -1,0 +1,42 @@
+{
+ "none": {
+  "safe_heldout": 0.152,
+  "unsafe": 0.78,
+  "harmful_test": 0.68
+ },
+ "direction": {
+  "safe_heldout": 0.04,
+  "unsafe": 0.08,
+  "harmful_test": 0.03
+ },
+ "overrefusal5": {
+  "safe_heldout": 0.12,
+  "unsafe": 0.705,
+  "harmful_test": 0.62
+ },
+ "top5": {
+  "safe_heldout": 0.12,
+  "unsafe": 0.71,
+  "harmful_test": 0.63
+ },
+ "overrefusal10": {
+  "safe_heldout": 0.096,
+  "unsafe": 0.705,
+  "harmful_test": 0.61
+ },
+ "top10": {
+  "safe_heldout": 0.12,
+  "unsafe": 0.695,
+  "harmful_test": 0.54
+ },
+ "overrefusal20": {
+  "safe_heldout": 0.08,
+  "unsafe": 0.655,
+  "harmful_test": 0.56
+ },
+ "top20": {
+  "safe_heldout": 0.096,
+  "unsafe": 0.59,
+  "harmful_test": 0.44
+ }
+}

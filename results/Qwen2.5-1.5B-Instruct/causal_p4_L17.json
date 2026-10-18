@@ -1,0 +1,146 @@
+{
+ "none": {
+  "refusal_harmful_test": 0.68,
+  "score_harmful_val": -0.5465484857559204,
+  "score_harmless_val": -7.131260871887207,
+  "lm_loss": 3.016884922981262
+ },
+ "direction": {
+  "refusal_harmful_test": 0.03,
+  "score_harmful_val": -4.650338649749756,
+  "score_harmless_val": -6.390524864196777,
+  "lm_loss": 3.060062050819397
+ },
+ "top5": {
+  "refusal_harmful_test": 0.63,
+  "score_harmful_val": -1.283022165298462,
+  "score_harmless_val": -7.123723983764648,
+  "lm_loss": 3.0168691873550415
+ },
+ "rand5_s0": {
+  "refusal_harmful_test": 0.7,
+  "score_harmful_val": -0.5478490591049194,
+  "score_harmless_val": -7.14240837097168,
+  "lm_loss": 3.0163445472717285
+ },
+ "rand5_s1": {
+  "refusal_harmful_test": 0.7,
+  "score_harmful_val": -0.5313366651535034,
+  "score_harmless_val": -7.152144432067871,
+  "lm_loss": 3.0171465277671814
+ },
+ "rand5_s2": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5399138927459717,
+  "score_harmless_val": -7.159943580627441,
+  "lm_loss": 3.017250895500183
+ },
+ "top10": {
+  "refusal_harmful_test": 0.54,
+  "score_harmful_val": -1.4372035264968872,
+  "score_harmless_val": -7.140962600708008,
+  "lm_loss": 3.0168869495391846
+ },
+ "rand10_s0": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.547409176826477,
+  "score_harmless_val": -7.138339042663574,
+  "lm_loss": 3.0168535113334656
+ },
+ "rand10_s1": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5215732455253601,
+  "score_harmless_val": -7.1322407722473145,
+  "lm_loss": 3.016848087310791
+ },
+ "rand10_s2": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5354457497596741,
+  "score_harmless_val": -7.122296333312988,
+  "lm_loss": 3.0174760222434998
+ },
+ "top25": {
+  "refusal_harmful_test": 0.43,
+  "score_harmful_val": -1.9624481201171875,
+  "score_harmless_val": -7.116024971008301,
+  "lm_loss": 3.0169320702552795
+ },
+ "rand25_s0": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5614309906959534,
+  "score_harmless_val": -7.130317687988281,
+  "lm_loss": 3.01773202419281
+ },
+ "rand25_s1": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5129343271255493,
+  "score_harmless_val": -7.117315292358398,
+  "lm_loss": 3.0178118348121643
+ },
+ "rand25_s2": {
+  "refusal_harmful_test": 0.7,
+  "score_harmful_val": -0.5387593507766724,
+  "score_harmless_val": -7.1240129470825195,
+  "lm_loss": 3.017700970172882
+ },
+ "top50": {
+  "refusal_harmful_test": 0.34,
+  "score_harmful_val": -2.314079761505127,
+  "score_harmless_val": -7.362758159637451,
+  "lm_loss": 3.024659216403961
+ },
+ "rand50_s0": {
+  "refusal_harmful_test": 0.71,
+  "score_harmful_val": -0.5626071691513062,
+  "score_harmless_val": -7.142380714416504,
+  "lm_loss": 3.017415165901184
+ },
+ "rand50_s1": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5276079177856445,
+  "score_harmless_val": -7.0948662757873535,
+  "lm_loss": 3.0176647901535034
+ },
+ "rand50_s2": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5577415227890015,
+  "score_harmless_val": -7.099817276000977,
+  "lm_loss": 3.0178821682929993
+ },
+ "top100": {
+  "refusal_harmful_test": 0.15,
+  "score_harmful_val": -2.989931106567383,
+  "score_harmless_val": -7.364727973937988,
+  "lm_loss": 3.0284539461135864
+ },
+ "rand100_s0": {
+  "refusal_harmful_test": 0.7,
+  "score_harmful_val": -0.5644515752792358,
+  "score_harmless_val": -7.130280494689941,
+  "lm_loss": 3.017927348613739
+ },
+ "rand100_s1": {
+  "refusal_harmful_test": 0.67,
+  "score_harmful_val": -0.5359959006309509,
+  "score_harmless_val": -7.1166911125183105,
+  "lm_loss": 3.0173418521881104
+ },
+ "rand100_s2": {
+  "refusal_harmful_test": 0.69,
+  "score_harmful_val": -0.5439695119857788,
+  "score_harmless_val": -7.170599937438965,
+  "lm_loss": 3.0167735815048218
+ },
+ "strong50": {
+  "refusal_harmful_test": 0.58,
+  "score_harmful_val": -1.149193525314331,
+  "score_harmless_val": -7.178574562072754,
+  "lm_loss": 3.0164108872413635
+ },
+ "weak50": {
+  "refusal_harmful_test": 0.5,
+  "score_harmful_val": -1.7885138988494873,
+  "score_harmless_val": -7.3105692863464355,
+  "lm_loss": 3.0246796011924744
+ }
+}

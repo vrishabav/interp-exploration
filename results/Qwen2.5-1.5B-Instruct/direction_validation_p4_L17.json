@@ -1,0 +1,16 @@
+{
+ "harmful_test": {
+  "base": 0.68,
+  "ablate": 0.03,
+  "add": 0.99
+ },
+ "harmless_test": {
+  "base": 0.03,
+  "ablate": 0.03,
+  "add": 0.77
+ },
+ "lm_loss": {
+  "base": 3.016884922981262,
+  "ablate": 3.060062050819397
+ }
+}

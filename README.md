@@ -39,4 +39,4 @@ figures/
 ## References
 
 - Arditi et al., *Refusal in Language Models Is Mediated by a Single Direction* (2024). [arXiv:2406.11717](https://arxiv.org/abs/2406.11717)
-- Goodfire essay on neuron interpretability <inssert link>
+- Cammarata (Goodfire), *Neural Networks Are Already Clean*. [already-clean.goodfire.com](https://already-clean.goodfire.com/)

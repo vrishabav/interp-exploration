@@ -95,6 +95,13 @@ scorer, and test the over-refusal (XSTest) and weak-vs-strong activation results
 - Over-refusal: [XSTest](https://github.com/paul-rottger/xstest).
 - Audit corpus: `HuggingFaceFW/fineweb` (sample-10BT) and `HuggingFaceH4/ultrachat_200k`.
 
+## AI Disclosure
+
+AI Agents were used to:
+- Assist with code implementation through this project
+- Draft the README, which has been read through and edited by me
+- Debug and troubleshoot
+
 ## References
 
 - Arditi et al., *Refusal in Language Models Is Mediated by a Single Direction* (2024). [arXiv:2406.11717](https://arxiv.org/abs/2406.11717)

@@ -1,0 +1,6 @@
+arm,condition,supported answer,justified abstention,unnecessary abstention,wrong or unsupported answer,unclear or malformed
+rloo,intact,10,7,0,3,0
+rloo,original,10,7,0,3,0
+rloo,random0,10,7,0,3,0
+sft,intact,8,7,0,5,0
+sft,original,7,7,0,6,0

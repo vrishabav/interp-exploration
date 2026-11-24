@@ -10,3 +10,4 @@ matplotlib
 tqdm
 ipykernel
 ipywidgets
+peft>=0.17

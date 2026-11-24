@@ -1,0 +1,50 @@
+{
+  "profile": "experiment",
+  "config": {
+    "steps": 128,
+    "prompts_per_step": 4,
+    "train_pairs": 256,
+    "pilot_pairs": 32,
+    "test_pairs": 128,
+    "save_every": 8,
+    "seed": 83,
+    "group": 4,
+    "beta": 0.02,
+    "sft_lr": 0.0001,
+    "rloo_lr": 3e-05,
+    "tokens": 16,
+    "natural_tokens": 48,
+    "eval_batch": 8,
+    "rank": 8,
+    "alpha": 16,
+    "warmup_steps": [
+      2,
+      4,
+      8,
+      16
+    ]
+  },
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "tag": "p4_L17",
+  "notebook_code": "cc5e6bc8b1689c6a653d982b8c97929f1612d7ab0fb0adbe52478a1d1aca64ac",
+  "sources": {
+    "abstention_env.py": "3c77d3729f71edc30cee9983969cfe5e451da75e3ed13df45116a3540de88e1c",
+    "abstention_eval.py": "65ed6e2a1c75a2028d235e8f9dc0995b011a929a041eea27eff80ba2a45d903b",
+    "abstention_training.py": "5c2b9914e0b64d9dd04d941b246864e768316eff21ff0e5bc6f0d3d1cfb3f44a",
+    "abstention_warmup.py": "b1cabcc07d7aee286559170cd33f83f0c7549b64848e43b99c558f8ab86ad2c8",
+    "refusal_common.py": "75ab280502d3b16ce4b12226972a7f1d060e5d6bcc8c1c6523808aa47d24ac53"
+  },
+  "inputs": {
+    "means.pt": "877d46812719d6df3e4eabacc356aba623b3157ac8012d233fb40d2c34ef7a99",
+    "top_neurons_p4_L17.json": "fa90cd27a67dbfce765ac69dbac2e9524c2d4de1c6f178181871f4817712dcce",
+    "prompts.json": "e38e32267ad624b60d2184a0b2eb3b04d38f0d3790b992ade3f6b6cc89a1578b"
+  },
+  "versions": {
+    "torch": "2.14.1",
+    "transformers": "5.20.1",
+    "peft": "0.22.0",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6"
+  }
+}

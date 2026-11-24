@@ -1,0 +1,8 @@
+{
+  "run": "experiment-6dcfd255e6632650",
+  "unique_review_rows": 100,
+  "condition_outputs": 100,
+  "distinct_pairs": 10,
+  "review_sha256": "ca76108606e27f87937db38661abae9ab49c1185a6b09a8d663589ad3154405a",
+  "review_key_sha256": "c2a3a9f953813bf765a67ce9b28ba47034b81a52c1861a45c31f0a0644e56e68"
+}

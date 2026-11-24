@@ -1,0 +1,10 @@
+{
+  "change_pp": -50.0,
+  "interval_pp": [
+    -68.75,
+    -34.375
+  ],
+  "improved": 0,
+  "worsened": 16,
+  "pairs": 32
+}

@@ -1,0 +1,8 @@
+{
+  "run": "warmup-experiment-1e6e6f135d56a34a",
+  "unique_review_rows": 25,
+  "condition_outputs": 100,
+  "distinct_pairs": 10,
+  "review_sha256": "d097d9457018c5778b3803e8ff381b7f49464515443b9ef22c06869617b012db",
+  "review_key_sha256": "1eb8af299f7ece955828858bc02cc4449f29d5fc0ab1ebe096fed7e6561903eb"
+}

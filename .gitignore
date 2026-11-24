@@ -3,6 +3,8 @@ cache/
 interp-exploration/
 # raw completions include answers to harmful prompts; release aggregates only
 results/*/generations/
+results/abstention_rl/
 .ipynb_checkpoints/
 __pycache__/
 .venv/
+assets/
